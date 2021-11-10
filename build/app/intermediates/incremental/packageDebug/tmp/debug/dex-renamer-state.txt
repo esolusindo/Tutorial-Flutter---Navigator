@@ -1,0 +1,4 @@
+#Sat Sep 25 10:34:20 WIB 2021
+base.0=/Users/macbookpro/Documents/belajar/belajar_navigator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
